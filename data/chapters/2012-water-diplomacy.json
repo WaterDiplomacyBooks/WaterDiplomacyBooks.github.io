@@ -1,0 +1,182 @@
+{
+  "source_note": "Public chapter metadata for waterdiplomacybooks.com. Use tf_url for the live OA chapter page. doi.org resolves 2019 chapter DOIs; 2012 chapter identifiers (10.4324/9780203083659-n) are T&F's and were not registered at Crossref as of 2026-08-20 (book DOI does resolve). Printed page ranges were checked 2026-08-20 against book-web.pdf PageLabels and BITS XML page targets. This file does not include PDFs.",
+  "book": {
+    "id": "2012-water-diplomacy",
+    "title": "Water Diplomacy",
+    "subtitle": "A Negotiated Approach to Managing Complex Water Networks",
+    "editors_or_authors": [
+      {
+        "name": "Shafiqul Islam",
+        "roles": [
+          "author"
+        ],
+        "orcid": null,
+        "affiliation": "Tufts University, USA"
+      },
+      {
+        "name": "Lawrence E. Susskind",
+        "roles": [
+          "author"
+        ],
+        "orcid": null,
+        "affiliation": "Massachusetts Institute of Technology, USA"
+      }
+    ],
+    "publisher": "Routledge",
+    "imprint": "Routledge",
+    "publisher_group": "Taylor & Francis Group",
+    "publication_year": 2012,
+    "publication_date": "2012-07-26T00:00:00.000Z",
+    "isbn_hbk": "978-1-61726-103-9",
+    "isbn_pbk": "978-1-61726-102-2",
+    "isbn_ebk": "978-0-203-08365-9",
+    "doi": "10.4324/9780203083659",
+    "doi_url": "https://doi.org/10.4324/9780203083659",
+    "tf_url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9780203083659/water-diplomacy-lawrence-susskind-shafiqul-islam",
+    "routledge_url": "https://www.routledge.com/Water-Diplomacy-A-Negotiated-Approach-to-Managing-Complex-Water-Networks/Islam-Susskind/p/book/9781617261039",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+    "open_access_support": "US National Science Foundation",
+    "chapters_count": 7,
+    "is_edited_collection": true,
+    "series": "RFF Press Water Policy Series",
+    "chapter_doi_pattern": "10.4324/9780203083659-{n}"
+  },
+  "parts": [
+    {
+      "id": null,
+      "title": null,
+      "start_page": null,
+      "end_page": null,
+      "chapters": [
+        {
+          "n": 1,
+          "title": "A Water Management Fable for all Time",
+          "subtitle": null,
+          "authors": [
+            "Maia Majumder"
+          ],
+          "doi": "10.4324/9780203083659-1",
+          "doi_url": "https://doi.org/10.4324/9780203083659-1",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-1/a-water-management-fable-for-all-time",
+          "page": 1,
+          "first_page": 1,
+          "last_page": 3,
+          "abstract": "Once upon a time, many millennia ago, three hunter-gatherer tribes settled in different parts of a river water basin known as Indopotamia. People were few and resources were plenty. As the population grew, the tribes realized that they could no longer depend entirely on wild foods. Slowly, they learned to cultivate rice. The best land for agriculture, however, became increasingly scarce. Land was transformed into a symbol of power. To protect themselves, and to assert their authority, the tribes established geographic boundaries and organized governments. These eventually became the modern day states of Alpha, Beta, and Gamma.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 2,
+          "title": "Challenging the Conventional Wisdom about Water Management",
+          "subtitle": null,
+          "authors": [
+            "Shafiqul Islam",
+            "Lawrence E. Susskind"
+          ],
+          "doi": "10.4324/9780203083659-2",
+          "doi_url": "https://doi.org/10.4324/9780203083659-2",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-2/challenging-the-conventional-wisdom-about-water-management",
+          "page": 4,
+          "first_page": 4,
+          "last_page": 40,
+          "abstract": "In our fictional world of Indopotamia, water was not a scarce resource during the time of our hunter-gatherer ancestors. Early civilization started near water and thrived along rivers. For thousands of years—from Mesopotamian cities, to Mayan civilization, to modern day Boston in the United States—we have figured out ways to move water around to facilitate development and enhance the quality of life. It is common knowledge that fresh water is a finite resource and that the overall supply of fresh water has not changed since the time of the dinosaurs.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 3,
+          "title": "Understanding and Characterizing Complex Water Management Problems",
+          "subtitle": null,
+          "authors": [
+            "Shafiqul Islam",
+            "Lawrence E. Susskind"
+          ],
+          "doi": "10.4324/9780203083659-3",
+          "doi_url": "https://doi.org/10.4324/9780203083659-3",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-3/understanding-and-characterizing-complex-water-management-problems",
+          "page": 41,
+          "first_page": 41,
+          "last_page": 88,
+          "abstract": "“Humans appear to have about the same number of genes, with similar sequence, and we both like cheese. So why aren’t mice more like us?” ( Gunter and Dhand 2005 ). The answer probably lies in the way genes are networked and regulated in mice and in humans.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 4,
+          "title": "Addressing Complex Water Management Problems",
+          "subtitle": null,
+          "authors": [
+            "Shafiqul Islam",
+            "Lawrence E. Susskind"
+          ],
+          "doi": "10.4324/9780203083659-4",
+          "doi_url": "https://doi.org/10.4324/9780203083659-4",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-4/addressing-complex-water-management-problems",
+          "page": 89,
+          "first_page": 89,
+          "last_page": 127,
+          "abstract": "Until the middle of the twentieth century, most water resource planning decisions were guided by the notion of maximizing the efficiency of water use. This was done by providing marketable goods and services without much regard for associated impacts. Water resource planning and management is a dramatically different enterprise now (e.g., Boland and Baumann 2009 ; Kiang et al 2011 ). Boland and Baumann (2009) point to three changes that have most dramatically influenced water resource decision-making over the last 50 years: (1) evolution of demand; (2) evolution of governance; and (3) evolution of analysis.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 5,
+          "title": "A Non-Zero-Sum Approach to Water Negotiations",
+          "subtitle": null,
+          "authors": [
+            "Peter Kamminga",
+            "Paola Cecchi-Dimeglio"
+          ],
+          "doi": "10.4324/9780203083659-5",
+          "doi_url": "https://doi.org/10.4324/9780203083659-5",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-5/a-non-zero-sum-approach-to-water-negotiations",
+          "page": 128,
+          "first_page": 128,
+          "last_page": 196,
+          "abstract": "Historically, most negotiations over the use of water have taken a zero-sum approach, meaning that gains to one party have almost always been matched by losses to others ( Bingham et al 1994 ; Tilmant et al 2007 ; Sgobbi and Carraro 2011 ). A zero-sum, or win–lose, approach implies that the parties have not succeeded in creating enough value so that the competing interests of the parties can be met simultaneously. If enough value is created, it is possible that the most important interests of all the parties can be met ( Lax and Sebenius 1986 ; Arnold and Jewell 2003: 68 ). In this chapter, we review the dynamics of zero-sum water negotiations as well as the alternative: a non-zero-sum or informal problem-solving approach to water management.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 6,
+          "title": "The Practice of Water Diplomacy in a Nutshell",
+          "subtitle": null,
+          "authors": [
+            "Elizabeth Fierman"
+          ],
+          "doi": "10.4324/9780203083659-6",
+          "doi_url": "https://doi.org/10.4324/9780203083659-6",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-6/the-practice-of-water-diplomacy-in-a-nutshell",
+          "page": 197,
+          "first_page": 197,
+          "last_page": 268,
+          "abstract": "There are six key tasks central to the practice of water diplomacy. Each has been described briefly in one of the previous chapters. In this chapter, we take a more hands-on look at what it will take to implement these ideas in various parts of the world.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 7,
+          "title": "The Indopotamia Role-Play Simulation",
+          "subtitle": null,
+          "authors": [
+            "Catherine M. Ashcraft"
+          ],
+          "doi": "10.4324/9780203083659-7",
+          "doi_url": "https://doi.org/10.4324/9780203083659-7",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780203083659-7/the-indopotamia-role-play-simulation",
+          "page": 269,
+          "first_page": 269,
+          "last_page": 314,
+          "abstract": "The Indopotamia role-play simulations are designed to teach about negotiating transboundary or boundary-crossing water conflicts using the Water Diplomacy Framework (WDF) presented in this volume. There are four separate segments of the game. Each explores an important step in the negotiations required to resolve difficult disputes within a water network. The first gives game players an opportunity to apply what they have learned (by reading the relevant chapters of this book) about exploring interests and building coalitions. The second, that can be played at a later date or immediately after the first segment finishes, asks the players to share information and generate new information by applying joint fact-finding techniques. The third segment presses the group to engage in value creation through the generation of development options or packages and asks the group to prioritize these possibilities. The final segment gives the stakeholder representatives a chance to see if they can negotiate a formal agreement to manage the land and water resources shared by the three countries in the Indopotamia River Basin that includes provisions for addressing future problems or changes that may impact their agreement, such as new data, future disputes, or implementation failures.",
+          "license": "CC BY-NC-SA 4.0"
+        }
+      ]
+    }
+  ],
+  "page_ranges_verified_at": "2026-08-20T12:26:15Z",
+  "page_range_verification": {
+    "status": "pass",
+    "method": "book-web.pdf PageLabels + BITS XML page targets vs T&F first_page/last_page",
+    "pass": 6,
+    "pass_with_note": 1,
+    "fail": 0,
+    "notes": [
+      "book-web.pdf inserts color plates A-1, A-2, A-3, A-4, A-5, A-6, A-7, A-8 after printed p. 270; T&F arabic range 269–314 is otherwise consecutive."
+    ]
+  }
+}

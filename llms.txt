@@ -1,0 +1,20 @@
+# Water Diplomacy Books
+
+> Catalog of books on water diplomacy at https://waterdiplomacybooks.com/
+> Open-access titles are featured first. v1 is books only (no chapters/articles index).
+
+## Open access (featured)
+
+- [Routledge Handbook of Water Diplomacy](https://waterdiplomacyhandbook.com/) (Islam, Smith, Klimes & Salzberg, eds., Routledge 2026) — companion site, not cloned here. DOI: https://doi.org/10.4324/9781003178439
+- [Interdisciplinary Collaboration for Water Diplomacy](https://waterdiplomacybooks.com/books/2019-interdisciplinary-collaboration/) (Islam & Smith, eds., Routledge 2019). DOI: https://doi.org/10.4324/9780429428760
+- [Water Diplomacy](https://waterdiplomacybooks.com/books/2012-water-diplomacy/) (Islam & Susskind, Routledge 2012). DOI: https://doi.org/10.4324/9780203083659
+
+Chapter cards for the 2012 and 2019 titles open the live Taylor & Francis chapter page. This site does not host PDFs.
+
+- [Timeline](https://waterdiplomacybooks.com/timeline/): all catalogued titles by publication year
+
+## Machine-readable data
+
+- [catalog.json](https://waterdiplomacybooks.com/data/catalog.json)
+- [2012 chapters.json](https://waterdiplomacybooks.com/data/chapters/2012-water-diplomacy.json)
+- [2019 chapters.json](https://waterdiplomacybooks.com/data/chapters/2019-interdisciplinary-collaboration.json)

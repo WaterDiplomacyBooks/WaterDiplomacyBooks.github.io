@@ -1,0 +1,358 @@
+{
+  "source_note": "Public chapter metadata for waterdiplomacybooks.com. Use tf_url for the live OA chapter page. doi.org resolves 2019 chapter DOIs; 2012 chapter identifiers (10.4324/9780203083659-n) are T&F's and were not registered at Crossref as of 2026-08-20 (book DOI does resolve). Printed page ranges were checked 2026-08-20 against book-web.pdf PageLabels and BITS XML page targets. This file does not include PDFs.",
+  "book": {
+    "id": "2019-interdisciplinary-collaboration",
+    "title": "Interdisciplinary Collaboration for Water Diplomacy",
+    "subtitle": "A Principled and Pragmatic Approach",
+    "editors_or_authors": [
+      {
+        "name": "Shafiqul Islam",
+        "roles": [
+          "editor"
+        ],
+        "orcid": "http://orcid.org/0000-0001-7493-5245",
+        "affiliation": "Tufts University, USA"
+      },
+      {
+        "name": "Kevin M. Smith",
+        "roles": [
+          "editor"
+        ],
+        "orcid": "http://orcid.org/0000-0002-8026-8917",
+        "affiliation": "Tufts University, USA"
+      }
+    ],
+    "publisher": "Routledge",
+    "imprint": "Routledge",
+    "publisher_group": "Taylor & Francis Group",
+    "publication_year": 2019,
+    "publication_date": "2019-11-22T00:00:00.000Z",
+    "isbn_hbk": "978-1-138-36928-3",
+    "isbn_pbk": "978-1-032-08489-3",
+    "isbn_ebk": "978-0-429-42876-0",
+    "doi": "10.4324/9780429428760",
+    "doi_url": "https://doi.org/10.4324/9780429428760",
+    "tf_url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9780429428760/interdisciplinary-collaboration-water-diplomacy-shafiqul-islam-kevin-smith",
+    "routledge_url": "https://www.routledge.com/Interdisciplinary-Collaboration-for-Water-Diplomacy-A-Principled-and-Pragmatic-Approach/Islam-Smith/p/book/9781032084893",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+    "open_access_support": "US National Science Foundation",
+    "chapters_count": 16,
+    "is_edited_collection": true,
+    "series": "Earthscan Studies in Water Resource Management",
+    "chapter_doi_pattern": "10.4324/9780429428760-{n}"
+  },
+  "parts": [
+    {
+      "id": "I",
+      "title": "Problem-driven interdisciplinary collaboration",
+      "start_page": 1,
+      "end_page": 69,
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Origins",
+          "subtitle": "Conceptualization, implementation, and evolution of an interdisciplinary graduate program on Water Diplomacy",
+          "authors": [
+            "Shafiqul Islam",
+            "Kent E. Portney",
+            "J. Michael Reed",
+            "Timothy S. Griffin",
+            "William Moomaw"
+          ],
+          "doi": "10.4324/9780429428760-1",
+          "doi_url": "https://doi.org/10.4324/9780429428760-1",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-1/origins",
+          "page": 3,
+          "first_page": 3,
+          "last_page": 21,
+          "abstract": "In 2009, Tufts University received a multimillion-dollar grant from the National Science Foundation to develop an Integrative Graduate Education and Research Traineeship (IGERT) program on water and diplomacy. For several years prior to the grant, the conception and planning of an interdisciplinary graduate program that would educate a new generation of professionals to tackle complex water issues was already underway. The IGERT program became the cornerstone of other Water Diplomacy projects at Tufts and beyond, such as the Water Diplomacy Research Coordination Network, the annual Water Diplomacy Workshop, and our case study database Aquapedia. In the ensuing decade since the grant was awarded, the Water Diplomacy graduate program has educated 27 doctoral students from across four different schools within the University. Students and faculty in the program collaborated to produce four books (including this one), 46 refereed publications, and more than 100 conference presentations across the globe. As part of their research, presentations, and internships, students travelled to at least 24 countries. In this chapter, we tell the story of the conceptualization and implementation of the program and share key findings that we hope will benefit others who are developing or considering starting interdisciplinary programs of their own.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 2,
+          "title": "Making distinctions",
+          "subtitle": "The importance of recognizing complexity in coupled natural and human systems",
+          "authors": [
+            "Kevin M. Smith",
+            "Shafiqul Islam"
+          ],
+          "doi": "10.4324/9780429428760-2",
+          "doi_url": "https://doi.org/10.4324/9780429428760-2",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-2/making-distinctions",
+          "page": 22,
+          "first_page": 22,
+          "last_page": 40,
+          "abstract": "Many water problems arise from a coupling of natural and human systems. Interdependent physical and societal dynamics give rise to complexity within these systems. Complexity, in this sense, is not a distinction that describes the degree of difficulty involved in solving such a problem but an intrinsic property of the system from which the problem arises. In contrast to simple and complicated systems, complex systems are characterized by ambiguous and nonprospective cause-effect relationships, broad and often-irreducible predictive uncertainty, and emergent “surprises” that dominate system behavior and response. To highlight the importance of recognizing this complexity, we explore how the identification of a system as simple, complicated, or complex puts important constraints on the way problems arising from these systems need to be addressed. We use the example of an ongoing sanitation crisis in Lowndes County, Alabama, to help make these distinctions clear. We first examine the crisis as if it were the product of a simple system and examine the approach and proposed actions that might entail. Then we contrast those outcomes with what we might expect to see if the system were actually complicated. Finally, we argue why the sanitation crisis in Lowndes County is neither simple nor complicated but rather inherently complex. We close by suggesting that, on the basis of this notion of complexity, inclusive stakeholder engagement (e.g., in fact-value deliberation, joint fact finding, collective decision making, and adaptive management) is needed to achieve sustainable and equitable outcomes.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 3,
+          "title": "Working together",
+          "subtitle": "An argument for problem-driven interdisciplinary collaboration",
+          "authors": [
+            "Kevin M. Smith",
+            "Shafiqul Islam"
+          ],
+          "doi": "10.4324/9780429428760-3",
+          "doi_url": "https://doi.org/10.4324/9780429428760-3",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-3/working-together",
+          "page": 41,
+          "first_page": 41,
+          "last_page": 54,
+          "abstract": "The inherent complexity of coupled natural and human systems creates problems that cut right across disciplinary boundaries. While there is widespread agreement that interdisciplinary collaborations are critical to approaching these challenges, there is no explicit consensus on what modes of interdisciplinarity will be useful or lead to actionable outcomes. We argue that the dominant implicit mode of interdisciplinary collaboration is theory driven: it seeks to create some form of generalizable theory that will bridge disciplines. While this is a powerful mode of interdisciplinary practice effective for problems arising in simple and complicated systems, we argue that there is little hope for finding generalizable theory when it comes to problems arising from complexity. Instead, we argue that complexity demands a problem-driven interdisciplinary approach that integrates knowledge - with an explicit recognition of the nature, capacity, and constraints inherent to the chosen problem - for actionable, measurable, and trackable outcomes. In lieu of seeking a theory to bridge disparate disciplines, we argue that teams need to seek shared frameworks that facilitate agreement on the nature of the problem context (e.g., simple, complicated, or complex) as well as provide a common language for describing and diagnosing problems (e.g., the Water Diplomacy Framework). We see such frameworks as an effective means of catalyzing interdisciplinary research and practice on complex water issues.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 4,
+          "title": "Principled pragmatism",
+          "subtitle": "How Water Diplomats approach complex water issues",
+          "authors": [
+            "Kevin M. Smith",
+            "Shafiqul Islam"
+          ],
+          "doi": "10.4324/9780429428760-4",
+          "doi_url": "https://doi.org/10.4324/9780429428760-4",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-4/principled-pragmatism",
+          "page": 55,
+          "first_page": 55,
+          "last_page": 69,
+          "abstract": "Many contemporary water problems emerge from a complex coupling of natural and human systems. These “wicked” problems defy traditional problem-solving techniques and require professionals to engage in inclusive fact-value conversations and collective decision-making processes with experts from other disciplines as well as with stakeholders with local knowledge (i.e., they need to practice what we call Water Diplomacy). The practice of Water Diplomacy requires drawing upon four domains of knowledge: episteme, phronesis, techne, and praxis. For water professionals looking to engage in Water Diplomacy, we argue that effective synthesis and application of these domains of knowledge requires principled pragmatism. The vision of principled pragmatism we offer seeks to move away from the dichotomy of “being pragmatic” or “being ideological” by focusing on how to transform ideas to action given the constraints and capacities of the problem context. It recognizes that a strict adherence to principles without pragmatism is often not actionable and that pure pragmatism exercised without guiding principles is not sustainable and is unlikely to be equitable. We highlight three archetypes of professional practice from the literature - the Honest Broker, the Humble Analyst, and the Democratic Professional - that identify concrete modes of practice for Water Diplomats seeking to understand how they can apply these ideas in negotiated approaches to resolving complex water issues.",
+          "license": "CC BY-NC-SA 4.0"
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "Problem-driven interdisciplinary collaboration in action",
+      "start_page": 71,
+      "end_page": 239,
+      "chapters": [
+        {
+          "n": 5,
+          "title": "Operationalizing problem-driven interdisciplinary collaboration",
+          "subtitle": "An overview of case studies from the Tufts Water Diplomacy program",
+          "authors": [
+            "Kevin M. Smith",
+            "Shafiqul Islam"
+          ],
+          "doi": "10.4324/9780429428760-5",
+          "doi_url": "https://doi.org/10.4324/9780429428760-5",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-5/operationalizing-problem-driven-interdisciplinary-collaboration",
+          "page": 73,
+          "first_page": 73,
+          "last_page": 78,
+          "abstract": "In 2009, Tufts University received a multimillion-dollar grant from the National Science Foundation to fund an Integrative Graduate Education and Research Traineeship (IGERT) program on Water and Diplomacy. This IGERT program became the cornerstone of other Water Diplomacy projects at Tufts University and beyond. In the ensuing decade since the awarding of the grant, the Water Diplomacy program has educated 27 doctoral students from across four different schools within the university. Students and faculty in the program collaborated to produce three books, 46 refereed publications, and more than 100 conference presentations across the globe. In this section, we document a selection of student research that we believe exemplify the themes of this book, namely the importance of accurately identifying the intrinsic nature of a system as simple, complicated, or complex; the need for engaging stakeholders with conflicting or divergent values and interests to address problems arising from complex coupled natural and human systems; the efficacy of problem-driven interdisciplinary collaboration guided by shared frameworks; the importance of exploring options with a mutual-gains negotiation approach; and the imperative that water professionals must attend to both principles and pragmatism in order to transform ideas into action given the constraints and capacities of the problem context.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 6,
+          "title": "Flood diplomacy",
+          "subtitle": "The hydrological, technical, and sociopolitical challenges of delineating usable floodplain boundaries",
+          "authors": [
+            "Michal Russo",
+            "Laura Read"
+          ],
+          "doi": "10.4324/9780429428760-6",
+          "doi_url": "https://doi.org/10.4324/9780429428760-6",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-6/flood-diplomacy",
+          "page": 79,
+          "first_page": 79,
+          "last_page": 116,
+          "abstract": "The process of delineating floodplains has implications far beyond the hydrologic risk they convey. The technical methods, focused on resolving probabilities of inundation, are often researched and communicated separately from the impacts. However, like any complex socioecological system, the hydrological drivers of flooding cannot be separated from the sociopolitical drivers. Recent evidence in the literature suggests that floodplain delineation often fails to encompass the extent of property damage that is reported or claimed postflood ( Highfield et al. 2013 ; Blessing et al. 2017 ). A number of reasons can cause this mismatch, such as the dynamic nature of the natural floodplain itself, inaccurate topographic data, urbanization, and misperception of flood risk. The consequences for society are extensive. This chapter explores the fraught relationships between the hydrological, technical, and sociopolitical delineations of floodplains. We investigate these relationships through a case study of flooding in Warwick, Rhode Island. Based on 25 interviews, we reveal the failings of the technical model to capture and effectively deal with sociopolitical feedbacks. We offer insights into the current misalignment of delineation methods with human dimensions of risk. Building on the Water Diplomacy Framework (see Chapter 1 of this volume), we present suggestions for overcoming current limitations.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 7,
+          "title": "Cholera in Haiti",
+          "subtitle": "Why many efforts have failed and how we can do better",
+          "authors": [
+            "Michael Ritter"
+          ],
+          "doi": "10.4324/9780429428760-7",
+          "doi_url": "https://doi.org/10.4324/9780429428760-7",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-7/cholera-in-haiti",
+          "page": 117,
+          "first_page": 117,
+          "last_page": 135,
+          "abstract": "Cholera, a waterborne disease, has proven to be a persistent problem in Haiti since its introduction in 2010. This chapter explores examples of how stakeholders at three different scales defined the problem and interacted with each other as they responded to cholera. At the policy level, coalitions of stakeholders formulated strategic plans and documents intended to attract and allocate resources. At the sector level, the household water treatment and storage working group attempted to set sectorwide regulations. At the organizational level, one social enterprise NGO strove to increase its own impact on cholera transmission. Problem definitions varied between stakeholders and scales, and this led to evolving complexity of the problem over time. Uncertainty of resources and issues of distrust created challenges for successful stakeholder engagement at all three levels. Incomplete progress toward cholera response goals stemmed more from a failure to recognize these sources of complexity and adapt to them than from “wrong” choices with respect to technical solutions. The Water Diplomacy Framework can add value by directing leaders to diagnose and adapt to existing levels of trust, certainty, and consensus instead of assuming that ideal conditions exist.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 8,
+          "title": "Water Diplomacy at the macro scale",
+          "subtitle": "Agricultural groundwater governance in the High Plains Aquifer region of the United States",
+          "authors": [
+            "Gregory N. Sixt",
+            "Ashley C. McCarthy",
+            "Kent E. Portney",
+            "Timothy S. Griffin"
+          ],
+          "doi": "10.4324/9780429428760-8",
+          "doi_url": "https://doi.org/10.4324/9780429428760-8",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-8/water-diplomacy-at-the-macro-scale",
+          "page": 136,
+          "first_page": 136,
+          "last_page": 165,
+          "abstract": "The High Plains Aquifer in the United States is one of the largest groundwater systems in the world. Water from the aquifer is vitally important to both the agriculture-based economies and rural communities in this region and to areas around the world that rely on agricultural goods produced there. Groundwater withdrawn from the aquifer generates more than $7 billion in crop production annually and supports about 20% of the corn, cotton, cattle, and wheat produced in the U.S. each year. Yet an alarming decline in groundwater levels in some parts of the aquifer puts at risk the long-term economic and ecological viability across most of the High Plains Aquifer region. Different states in the region have pursued varying paths to governing the use of water from the aquifer, with varying degrees of success toward sustainability. The nascent field of Water Diplomacy provides a useful lens through which to evaluate the governance institutions that different states have put in place to achieve sustainable use of High Plains Aquifer water. The High Plains Aquifer presents a useful case to further the application of Water Diplomacy as a discipline to water governance situations. Here we look at the states of Kansas, Nebraska, and Texas to identify the extent to which U.S. state-level governance institutions possess the principles needed for Water Diplomacy solutions in the context of groundwater governance. To achieve this, we draw upon the work of Elinor Ostrom and apply her eight design principles for governing sustainable common-pool resources.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 9,
+          "title": "Creating flexibility in freshwater availability for the Eastern Nile Basin",
+          "subtitle": null,
+          "authors": [
+            "Agustín Botteron"
+          ],
+          "doi": "10.4324/9780429428760-9",
+          "doi_url": "https://doi.org/10.4324/9780429428760-9",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-9/creating-flexibility-in-freshwater-availability-for-the-eastern-nile-basin",
+          "page": 166,
+          "first_page": 166,
+          "last_page": 186,
+          "abstract": "The High Plains Aquifer in the United States is one of the largest groundwater systems in the world. Water from the aquifer is vitally important to both the agriculture-based economies and rural communities in this region and to areas around the world that rely on agricultural goods produced there. Groundwater withdrawn from the aquifer generates more than $7 billion in crop production annually and supports about 20% of the corn, cotton, cattle, and wheat produced in the U.S. each year. Yet an alarming decline in groundwater levels in some parts of the aquifer puts at risk the long-term economic and ecological viability across most of the High Plains Aquifer region. Different states in the region have pursued varying paths to governing the use of water from the aquifer, with varying degrees of success toward sustainability. The nascent field of Water Diplomacy provides a useful lens through which to evaluate the governance institutions that different states have put in place to achieve sustainable use of High Plains Aquifer water. The High Plains Aquifer presents a useful case to further the application of Water Diplomacy as a discipline to water governance situations. Here we look at the states of Kansas, Nebraska, and Texas to identify the extent to which U.S. state-level governance institutions possess the principles needed for Water Diplomacy solutions in the context of groundwater governance. To achieve this, we draw upon the work of Elinor Ostrom and apply her eight design principles for governing sustainable common-pool resources.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 10,
+          "title": "Confronting the natural domain",
+          "subtitle": "Strategies for addressing ecology and conservation in complex water management challenges",
+          "authors": [
+            "Charles B. van Rees",
+            "Gabriela Marie Garcia",
+            "Jessica Rozek Cañizares"
+          ],
+          "doi": "10.4324/9780429428760-10",
+          "doi_url": "https://doi.org/10.4324/9780429428760-10",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-10/confronting-the-natural-domain",
+          "page": 187,
+          "first_page": 187,
+          "last_page": 207,
+          "abstract": "Growing awareness of the impacts of hydrological perturbations on freshwater life and the role of ecological systems in water security has led to the prioritization of ecological factors in water management. This chapter addresses the critical role of ecological systems in water management, focusing on the conflicts and synergies between freshwater biodiversity conservation and water resources decision making. It begins with a summary of ecological sources of complexity that affect water management outcomes, describing the role of nonlinearity, emergence, feedback, cross-scale dynamics, and interdependence in ecological response. Next, it explores modern interdisciplinary frameworks and concepts for addressing the complex interactions between water, ecosystems, and society, including ecosystem services, environmental flows, Integrated Water Resources Management, and Water Diplomacy. The chapter concludes with three case studies describing different ecological systems to show the diversity of interactions between ecological systems and water management and the frameworks that can help manage hydroecological relationships.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 11,
+          "title": "Access to safe drinking water across the Navajo Nation",
+          "subtitle": null,
+          "authors": [
+            "Laura Corlin"
+          ],
+          "doi": "10.4324/9780429428760-11",
+          "doi_url": "https://doi.org/10.4324/9780429428760-11",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-11/access-to-safe-drinking-water-across-the-navajo-nation",
+          "page": 208,
+          "first_page": 208,
+          "last_page": 223,
+          "abstract": "Ensuring consistent and safe access to drinking water in isolated areas of the Navajo Nation is a pressing and challenging issue. In the first half of the chapter, the Water Diplomacy Framework is used to understand water provisioning in rural, isolated areas of the Navajo Nation as a complex problem. Specifically, the challenges posed by legacy effects (including water rights, power asymmetries, and lack of trust among stakeholders due to the history of uranium mining), scientific sources of uncertainty, transboundary and multilevel political responsibilities, and interdependencies among stakeholders are addressed. After exploring the factors contributing to the complexity of the problem, the second half of the chapter focuses on how to move forward. In particular, the Water Diplomacy Framework suggests approaching the problem with principled pragmatism and emphasizing meaningful stakeholder engagement to promote equity and sustainability. In this way, it is possible to identify creative and contingent non-zero-sum solutions. Real-world examples of ways stakeholders have tried to ensure consistent, safe water access on the Navajo Nation are considered within the context of the Water Diplomacy Framework.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 12,
+          "title": "Coupling and complexity of natural and human systems",
+          "subtitle": "A case study from the southwestBangladesh delta",
+          "authors": [
+            "Wahid Palash",
+            "Kevin M. Smith",
+            "Shafiqul Islam"
+          ],
+          "doi": "10.4324/9780429428760-12",
+          "doi_url": "https://doi.org/10.4324/9780429428760-12",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-12/coupling-and-complexity-of-natural-and-human-systems",
+          "page": 224,
+          "first_page": 224,
+          "last_page": 239,
+          "abstract": "This chapter introduces several key attributes that distinguish complex systems from those that are merely complicated. It then presents a distinction between system complexity (i.e., where these attributes are intrinsic to the system) and modeling complexity (i.e., where these attributes are artifacts of trying to model a system). Later, the chapter illustrates a case of a coupled natural and human (CNH) complex system by analyzing water problems in Bangladesh’s southwest delta region through the lens of complexity science. Important interconnections and interactions between and among the elements and subsystems of hydrology; policy and management of water resources, agriculture, and fisheries; external drivers such as disputes over water sharing in transboundary rivers and climate change; and public health of the region are discussed. Evidence of nonlinear relationships, feedback, and emergence in southwest Bangladesh’s CNH system is also presented with examples.",
+          "license": "CC BY-NC-SA 4.0"
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "title": "Looking back and looking forward",
+      "start_page": 241,
+      "end_page": 296,
+      "chapters": [
+        {
+          "n": 13,
+          "title": "Evaluation of an interdisciplinary graduate program",
+          "subtitle": "Lessons learned from the Tufts Water Diplomacy program",
+          "authors": [
+            "Glenn G. Page",
+            "Shafiqul Islam"
+          ],
+          "doi": "10.4324/9780429428760-13",
+          "doi_url": "https://doi.org/10.4324/9780429428760-13",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-13/evaluation-of-an-interdisciplinary-graduate-program",
+          "page": 243,
+          "first_page": 243,
+          "last_page": 262,
+          "abstract": "A developmental evaluation approach was applied to the external assessment of the Water Diplomacy PhD Program at Tufts University. This process systematically clarified the context and rationale of the program, examined its progress and outcomes, and provided the students with a novel strategy to define their own interdisciplinary learning strategy. This approach followed the eight principles of developmental evaluation in order to guide adaptation through periodic feedback and recommendations. Fidelity to all eight principles is essential to support development of new initiatives. This particular evaluation approach supported an ongoing continuous development of an interdisciplinary graduate training as part of an innovative process. Evaluation and assessment of interdisciplinary scholarship encounters difficulties when approaches based in single disciplines or traditional methods of program evaluation are applied without fully appreciating the nuances of interdisciplinarity. Too often, bibliometrics such as number of peer-reviewed publications in high-impact journals and subsequent citations are used as the dominant standard to evaluate collaborative research and by extension graduate research trainee programs. This project demonstrated that assessment of interdisciplinary scholarship can feature criteria and metrics that are specifically chosen to be aligned with the goals and objectives of the program, and the process itself can be quite useful. This work succeeded because it featured a balance between the recognizable aspects of traditional program evaluation (which are important to funding agencies as well as individual departments) with novel approaches that provide sufficient flexibility for the program to grow and adapt in alignment with its specific goals.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 14,
+          "title": "Reflections on the Tufts experiment with interdisciplinary Water Diplomacy research",
+          "subtitle": null,
+          "authors": [
+            "Kent E. Portney",
+            "J. Michael Reed",
+            "Amanda C. Repella"
+          ],
+          "doi": "10.4324/9780429428760-14",
+          "doi_url": "https://doi.org/10.4324/9780429428760-14",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-14/reflections-on-the-tufts-experiment-with-interdisciplinary-water-diplomacy-resea",
+          "page": 263,
+          "first_page": 263,
+          "last_page": 277,
+          "abstract": "In 2009, Tufts University received a multimillion-dollar grant from the National Science Foundation to fund an Integrative Graduate Education and Research Traineeship (IGERT) program on Water and Diplomacy. This IGERT program became the cornerstone of other Water Diplomacy projects, such as the Water Diplomacy Research Coordination Network, the annual Water Diplomacy Workshop, and Aquapedia. In the ensuing decade since the awarding of the grant, the Water Diplomacy Program has educated 27 doctoral students from across four different schools within the university. Students and faculty in the program collaborated to produce four books, 46 refereed publications, and more than 100 conference presentations across the globe. As part of their research, presentations, and internships, students travelled to at least 24 countries. These achievements could not have been possible without faculty and staff who were invested in the success of the program. In this chapter, we invite their reflections on the challenges, opportunities, and overall experience as part of this 10-year experiment in interdisciplinary Water Diplomacy research at Tufts. These reflections are shared in the hope that they may improve the experience of those embarking on similar interdisciplinary experiments.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 15,
+          "title": "Perspectives on Water Diplomacy",
+          "subtitle": "Key findings, remaining challenges, and future directions",
+          "authors": [
+            "Lawrence Susskind",
+            "Enamul Choudhury",
+            "Greg Koch"
+          ],
+          "doi": "10.4324/9780429428760-15",
+          "doi_url": "https://doi.org/10.4324/9780429428760-15",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-15/perspectives-on-water-diplomacy",
+          "page": 278,
+          "first_page": 278,
+          "last_page": 291,
+          "abstract": "The concept of Water Diplomacy has matured significantly over the past decade and will continue to evolve in the years ahead. At this key juncture, we have asked several theorists and practitioners to share their perspectives on the current state of Water Diplomacy. In this chapter, Professor Lawrence Susskind, one of the co-authors of the original Water Diplomacy Framework, proposes six sticky ideas for successful water negotiations. Professor Enamul Choudhury, co-editor of a recent book on Water Diplomacy, reflects on methodological challenges and the perennial issues of bridging theory and practice. Greg Koch, a globally recognized leader in water stewardship, offers a unique industry perspective on why the “soft stuff” (empathy, cultures, religions) is so much more challenging than the “hard stuff” (data, models, infrastructure). Our hope is that these reflections offer our readers actionable insights, a deeper understanding of the challenges that remain, and a sense of direction for future Water Diplomacy scholarship and practice.",
+          "license": "CC BY-NC-SA 4.0"
+        },
+        {
+          "n": 16,
+          "title": "Quo Vadis?",
+          "subtitle": null,
+          "authors": [
+            "Shafiqul Islam",
+            "Kevin M. Smith"
+          ],
+          "doi": "10.4324/9780429428760-16",
+          "doi_url": "https://doi.org/10.4324/9780429428760-16",
+          "tf_url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429428760-16/quo-vadis",
+          "page": 292,
+          "first_page": 292,
+          "last_page": 296,
+          "abstract": "The Academy - founded by Plato and transformed into the modern university - is an ideal institution to cultivate, create, and disseminate universal knowledge. However, many contemporary water problems arise from an intrinsic complexity that does not yield generalizable solutions or universal knowledge. Water Diplomacy is an idea - conceived by a group of reflective water scholars and professionals in Boston in 2006 - with an ambitious goal to explore new ways to “think and do” water scholarship on complex water issues and improve societal outcomes. In this closing chapter, we recall key lessons learned over a decade of implementing an interdisciplinary graduate Water Diplomacy Program at Tufts University. In closing, we remind our readers: to recognize that the complexity of coupled natural and human systems requires a synthesis of knowledge representations rather than an either-or framing; to embrace problem-driven opportunities for collaboration facilitated by shared frameworks; and that arriving at actionable, sustainable, and equitable outcomes requires a principled and pragmatic approach to engaging in inclusive stakeholder-centered processes (e.g., fact-value deliberation, joint fact finding, collective decision making, and adaptive management). In many ways, our experiment is just beginning, but we share our gratitude for this opportunity to reflect on the progress we have made so far.",
+          "license": "CC BY-NC-SA 4.0"
+        }
+      ]
+    }
+  ],
+  "page_ranges_verified_at": "2026-08-20T12:26:16Z",
+  "page_range_verification": {
+    "status": "pass",
+    "method": "book-web.pdf PageLabels + BITS XML page targets vs T&F first_page/last_page",
+    "pass": 16,
+    "pass_with_note": 0,
+    "fail": 0,
+    "notes": []
+  }
+}

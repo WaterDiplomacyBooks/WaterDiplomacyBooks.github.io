@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /assets/images/covers/
+
+Sitemap: https://waterdiplomacybooks.com/sitemap.xml

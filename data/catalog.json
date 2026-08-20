@@ -1,0 +1,490 @@
+{
+  "title": "Water Diplomacy Books",
+  "url": "https://waterdiplomacybooks.com/",
+  "note": "Public catalog index for waterdiplomacybooks.com. inclusion is include, include_islam, or edition. Covers are publisher jackets; OA chapter PDFs are not included.",
+  "featured_ids": [
+    "2026-routledge-handbook",
+    "2019-interdisciplinary-collaboration",
+    "2012-water-diplomacy"
+  ],
+  "books": [
+    {
+      "id": "2026-routledge-handbook",
+      "band": "featured_oa",
+      "inclusion": "include",
+      "title": "Routledge Handbook of Water Diplomacy",
+      "contributors": [
+        {
+          "name": "Shafiqul Islam",
+          "role": "editor"
+        },
+        {
+          "name": "Kevin Smith",
+          "role": "editor"
+        },
+        {
+          "name": "Martina Klimes",
+          "role": "editor"
+        },
+        {
+          "name": "Aaron Salzberg",
+          "role": "editor"
+        }
+      ],
+      "year": 2026,
+      "publisher": "Routledge",
+      "imprint": "Routledge",
+      "work_type": "edited",
+      "open_access": true,
+      "license": "CC BY-NC-SA 4.0",
+      "oa_funder": "The International Centre for Water Cooperation (ICWC)",
+      "doi": "10.4324/9781003178439",
+      "doi_url": "https://doi.org/10.4324/9781003178439",
+      "isbn_hbk": "9781032013893",
+      "isbn_pbk": "9781032013923",
+      "isbn_ebk": "9781003178439",
+      "tf_url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003178439/routledge-handbook-of-water-diplomacy-shafiqul-islam-kevin-smith-martina-klimes-aaron-salzberg",
+      "publisher_urls": [
+        "https://www.routledge.com/Routledge-Handbook-of-Water-Diplomacy/Islam-Smith-Klimes-Salzberg/p/book/9781032013893",
+        "https://waterdiplomacyhandbook.com/"
+      ],
+      "own_site": "https://waterdiplomacyhandbook.com/",
+      "blurb": "The Routledge Handbook of Water Diplomacy is a comprehensive guide to understanding and practicing water diplomacy – a framework for building relationships, negotiating shared interests, and managing complex water challenges across physical, political, and societal boundaries. In an era marked by rising scarcity, deepening uncertainty, and growing geopolitical tension, this timely volume offers actionable insights for negotiated problem-solving grounded in both scientific understanding and diplomatic skill. Moving beyond abstract theory and technical fixes, the Handbook introduces a dual-pathway structure designed to meet the diverse needs of its users. The “Working Together” pathway invites readers to engage with water diplomacy through the lens of their roles, whether as professionals, decision-makers, funders, researchers, or affected communities. The “What Matters and Why” pathway highlights key thematic dimensions, including process design, adaptive learning, trust-building, divergent worldviews, and the management of uncertainty. Together, these pathways guide readers through a wide range of case studies, from transboundary river basins to subnational disputes and community-scale water systems, demonstrating how water diplomacy can resolve conflict, enable cooperation, and support adaptive, context-sensitive 'learning by doing' under conditions of complexity and change. Whether addressing a transboundary dispute or a local allocation challenge, this book provides guiding principles, practical tools, and real-world cases to support water solutions that are scientifically credible, socially inclusive, and politically feasible. The Routledge Handbook of Water Diplomacy serves as an essential reference volume for students and scholars of water diplomacy, water governance and water resource management, as well as for policymakers and water professionals who are seeking actionable insights into the nuanced challenges they encounter as they work to promote a more sustainable and equitable water future. The Open Access version of this book, available at https://www.taylorfrancis.com , has been made available under a Creative Commons Attribution- NonCommercial- ShareAlike 4.0 International (CC BY- NC- SA) license.",
+      "chapters_count": 54,
+      "cover": "/assets/images/covers/2026-routledge-handbook.jpg"
+    },
+    {
+      "id": "2019-interdisciplinary-collaboration",
+      "band": "featured_oa",
+      "inclusion": "include",
+      "title": "Interdisciplinary Collaboration for Water Diplomacy",
+      "subtitle": "A Principled and Pragmatic Approach",
+      "contributors": [
+        {
+          "name": "Shafiqul Islam",
+          "role": "editor"
+        },
+        {
+          "name": "Kevin M. Smith",
+          "role": "editor"
+        }
+      ],
+      "year": 2019,
+      "publisher": "Routledge",
+      "imprint": "Routledge",
+      "work_type": "edited",
+      "open_access": true,
+      "license": "CC BY-NC-SA 4.0",
+      "oa_funder": "US National Science Foundation",
+      "doi": "10.4324/9780429428760",
+      "doi_url": "https://doi.org/10.4324/9780429428760",
+      "isbn_hbk": "9781138369283",
+      "isbn_pbk": "9781032084893",
+      "isbn_ebk": "9780429428760",
+      "tf_url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9780429428760/interdisciplinary-collaboration-water-diplomacy-shafiqul-islam-kevin-smith",
+      "publisher_urls": [
+        "https://www.routledge.com/Interdisciplinary-Collaboration-for-Water-Diplomacy-A-Principled-and-Pragmatic-Approach/Islam-Smith/p/book/9781032084893"
+      ],
+      "blurb": "This book introduces the concept of Water Diplomacy as a principled and pragmatic approach to problem-driven interdisciplinary collaboration, which has been developed as a response to pressing contemporary water challenges arising from the coupling of natural and human systems. The findings of the book are the result of a decade-long interdisciplinary experiment in conceiving, developing, and implementing an interdisciplinary graduate program on Water Diplomacy at Tufts University, USA. This has led to the development of the Water Diplomacy Framework, a shared framework for understanding, diagnosing, and communicating about complex water issues across disciplinary boundaries. This framework clarifies important distinctions between water systems - simple, complicated, or complex - and the attributes that these distinctions imply for how these problems can be addressed. In this book, the focus is on complex water issues and how they require a problem-driven rather than a theory-driven approach to interdisciplinary collaboration. Moreover, it is argued that conception of interdisciplinarity needs to go beyond collaboration among experts, because complex water problems demand inclusive stakeholder engagement, such as in fact-value deliberation, joint fact finding, collective decision making, and adaptive management. Water professionals working in such environments need to operate with both principles and pragmatism in order to achieve actionable, sustainable, and equitable outcomes. This book explores these ideas in more detail and demonstrates their efficacy through a diverse range of case studies. Reflections on the program are also included, from conceptualization through implementation and evaluation. This book offers critical lessons and case studies for researchers and practitioners working on complex water issues as well as important lessons for those looking to initiate, implement, or evaluate interdisciplinary programs to address other complex problems in any setting.",
+      "chapters_count": 16,
+      "cover": "/assets/images/covers/2019-interdisciplinary-collaboration.jpg"
+    },
+    {
+      "id": "2012-water-diplomacy",
+      "band": "featured_oa",
+      "inclusion": "include",
+      "title": "Water Diplomacy",
+      "subtitle": "A Negotiated Approach to Managing Complex Water Networks",
+      "contributors": [
+        {
+          "name": "Shafiqul Islam",
+          "role": "author"
+        },
+        {
+          "name": "Lawrence E. Susskind",
+          "role": "author"
+        }
+      ],
+      "year": 2012,
+      "publisher": "Routledge",
+      "imprint": "RFF Press",
+      "work_type": "authored",
+      "open_access": true,
+      "license": "CC BY-NC-SA 4.0",
+      "oa_funder": "US National Science Foundation",
+      "doi": "10.4324/9780203083659",
+      "doi_url": "https://doi.org/10.4324/9780203083659",
+      "isbn_hbk": "9781617261039",
+      "isbn_pbk": "9781617261022",
+      "isbn_ebk": "9780203083659",
+      "tf_url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9780203083659/water-diplomacy-lawrence-susskind-shafiqul-islam",
+      "publisher_urls": [
+        "https://www.routledge.com/Water-Diplomacy-A-Negotiated-Approach-to-Managing-Complex-Water-Networks/Islam-Susskind/p/book/9781617261039"
+      ],
+      "blurb": "Water is the resource that will determine the wealth, welfare, and stability of many countries in the twenty-first century. This book offers a new approach to managing water that will overcome the conflicts that emerge when the interactions among natural, societal, and political forces are overlooked. At the heart of these conflicts are complex water networks. In managing them, science alone is insufficient and so is policy-making that doesn't take science into account. Solutions will only emerge if a negotiated or diplomatic approach that blends science, policy, and politics is used to manage water networks. The authors show how open and constantly changing water networks can be managed successfully using collaborative adaptive techniques to build informed agreements among disciplinary experts, water users with conflicting interests, and governmental bodies with countervailing claims. Shafiqul Islam is an engineer with over twenty-five years of practical experience in addressing water issues. Lawrence Susskind is founder of MIT's Environmental Policy and Planning Program and a leader of the Program on Negotiation at Harvard Law School. Together they have developed a text that is relevant for students and experienced professionals working in a variety of engineering, science, and applied social science fields. They show how new thinking about water conflict can replace the zero-sum battles that pit experts, politicians, and stakeholders against each other in counter-productive ways. Their volume not only presents the key elements of a theory of water diplomacy; it includes excerpts and commentary from more than two dozen seminal readings as well as practice exercises that challenge readers to apply what they have learned. The Open Access version of this book, available at https://www.taylorfrancis.com , has been made available under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 International license",
+      "chapters_count": 7,
+      "cover": "/assets/images/covers/2012-water-diplomacy.jpg"
+    },
+    {
+      "id": "2009-comair-hydrodiplomacy-lebanon",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Water Management and Hydrodiplomacy in Lebanon",
+      "contributors": [
+        {
+          "name": "Fadi Georges Comair",
+          "role": "author"
+        }
+      ],
+      "year": 2009,
+      "publisher": "Notre Dame University Press",
+      "imprint": "Notre Dame University Press, Louaize",
+      "work_type": "authored",
+      "open_access": false,
+      "isbn_hbk": "9789953457741"
+    },
+    {
+      "id": "2014-hydro-diplomacy-pangare",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Hydro Diplomacy",
+      "subtitle": "Sharing Water Across Borders",
+      "contributors": [
+        {
+          "name": "Ganesh Pangare",
+          "role": "editor"
+        }
+      ],
+      "year": 2014,
+      "publisher": "Academic Foundation",
+      "imprint": "Academic Foundation / IUCN",
+      "work_type": "edited",
+      "open_access": false,
+      "isbn_hbk": "9789332700987",
+      "publisher_urls": [
+        "http://academicfoundation.org/index.php?route=product/product&product_id=215",
+        "http://academicfoundation.org/index.php?route=product/print_brocture&product_id=215"
+      ],
+      "blurb": "The book is one of the first of its kind discussing transboundary water resources management from the perspective of international relations and regional cooperation. Managing transboundary waters is not just the domain of water managers but involves other considerations of foreign policy, diplomacy, trade and related issues. The monograph brings together diverse perspectives from politicians, diplomats, academics, practioners, bureaucrats, scientists and civil society on the concept of Hydro-diplomacy. As very aptly put by Gopalkrishna Gandhi, “A new hydro-cartography and a new hydro-wisdom must back hydro-diplomacy to address river water issues and to face the larger water crisis that looms overhead and under our feet” IUCN is hopeful that this publication would pave the way for further understanding and deliberations on the subject of Hydro-diplomacy.",
+      "cover": "/assets/images/covers/2014-hydro-diplomacy-pangare.jpg"
+    },
+    {
+      "id": "2015-transboundary-water-diplomacy-araghchi",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "دیپلماسی آب‌های فرامرزی و نظام بین‌الملل",
+      "subtitle": "درس‌هایی برای سیاست خارجی جمهوری اسلامی ایران",
+      "contributors": [
+        {
+          "name": "سید عباس عراقچی",
+          "role": "author"
+        }
+      ],
+      "year": 2015,
+      "publisher": "مرکز مطالعات سیاسی و بین‌المللی وزارت امور خارجه",
+      "imprint": "انتشارات مرکز مطالعات سیاسی و بین‌المللی وزارت امور خارجه",
+      "work_type": "authored",
+      "open_access": false,
+      "isbn_pbk": "9789643617448",
+      "publisher_urls": [
+        "https://fidibo.com/book/148156-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A2%D8%A8-%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2%DB%8C-%D9%86%D8%B8%D8%A7%D9%85-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84",
+        "https://ipis.ir/portal/newsview/610313"
+      ],
+      "blurb": "بحران آب مهم ترین بحران کشور در سال های آتی خواهد بود و بدون تردید تهدیدات قابل توجه محیط زیستی، اقتصادی، اجتماعی و حتی امنیتی به دنبال خواهد داشت. دیپلماسی و سیاست خارجی باید برای مقابله با این بحران و کمک به حل معضلات ناشی از آن سهم خود را ادا نماید، و به همین جهت است که امروزه «دیپلماسی آب» بیش از گذشته در سیاست خارجی غالب کشورها، از جمله جمهوری اسلامی ایران، جایگاه پیدا کرده است. دیپلماسی آب‌های فرامرزی تنها بخشی از دیپلماسی آب و البته بخش قابل توجهی از آن است. انتقال آب، کشت فراسرزمینی، آب مجازی، تجربیات بین‌المللی مربوط به بهینه‌سازی مصرف آب و ... از دیگر ابعاد و جنبه‌های دیپلماسی آب است که در انتهای این کتاب مختصرا ذکری از آنها رفته‌است و ان‌شاالله در آینده به آنها نیز با تفصیل پرداخته خواهد شد.",
+      "cover": "/assets/images/covers/2015-transboundary-water-diplomacy-araghchi.jpg",
+      "title_en": "Transboundary Water Diplomacy and the International System",
+      "subtitle_en": "Lessons for the Foreign Policy of the Islamic Republic of Iran"
+    },
+    {
+      "id": "2017-water-diplomacy-in-action",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Water Diplomacy in Action",
+      "subtitle": "Contingent Approaches to Managing Complex Water Problems",
+      "contributors": [
+        {
+          "name": "Shafiqul Islam",
+          "role": "editor"
+        },
+        {
+          "name": "Kaveh Madani",
+          "role": "editor"
+        }
+      ],
+      "year": 2017,
+      "publisher": "Anthem Press",
+      "imprint": "Anthem Press",
+      "work_type": "edited",
+      "open_access": false,
+      "doi": "10.2307/j.ctt1jktqgh",
+      "doi_url": "https://doi.org/10.2307/j.ctt1jktqgh",
+      "isbn_hbk": "9781783084906",
+      "isbn_pbk": "9781783084937",
+      "isbn_ebk": "9781783084913",
+      "publisher_urls": [
+        "https://anthempress.com/books/water-diplomacy-in-action-hb",
+        "https://anthempress.com/water-diplomacy-in-action-pb",
+        "https://www.jstor.org/stable/j.ctt1jktqgh"
+      ],
+      "blurb": "These problems - known as complex problems - are ill-defined, ambiguous, and often associated with strong moral, political and professional values and issues. For complex water problems, certainty of solutions and degree of consensus varies widely. In fact, there is often little consensus about what the problem is, let alone how to resolve it. Furthermore, complex problems are constantly changing because of interactions among the natural, societal and political forces involved. The nature of complexity is contingent on a variety of contextual characteristics of the interactions among variables, processes, actors, and institutions. Understanding interactions and feedback loops between and within human and natural systems is critical for managing complex water problems. This edited volume synthesizes insights from theory and practice to address complex water problems through contingent and adaptive management using water diplomacy framework (WDF). This emerging framework diagnoses water problems, identifies intervention points, and proposes sustainable solutions that are sensitive to diverse viewpoints and uncertainty as well as changing and competing needs. The WDF actively seeks value-creation opportunities by blending science, policy, and politics through a contingent negotiated approach.",
+      "cover": "/assets/images/covers/2017-water-diplomacy-in-action.jpg"
+    },
+    {
+      "id": "2018-complexity-transboundary-water-conflicts",
+      "band": "other_titles",
+      "inclusion": "include_islam",
+      "title": "Complexity of Transboundary Water Conflicts",
+      "subtitle": "Enabling Conditions for Negotiating Contingent Resolutions",
+      "contributors": [
+        {
+          "name": "Enamul Choudhury",
+          "role": "editor"
+        },
+        {
+          "name": "Shafiqul Islam",
+          "role": "editor"
+        },
+        {
+          "name": "Lawrence Susskind",
+          "role": "foreword"
+        }
+      ],
+      "year": 2018,
+      "publisher": "Anthem Press",
+      "imprint": "Anthem Press",
+      "work_type": "edited",
+      "open_access": false,
+      "doi": "10.2307/j.ctv8xngkk",
+      "doi_url": "https://doi.org/10.2307/j.ctv8xngkk",
+      "isbn_hbk": "9781783088690",
+      "isbn_pbk": "9781785274879",
+      "isbn_ebk": "9781783088706",
+      "publisher_urls": [
+        "https://anthempress.com/books/complexity-of-transboundary-water-conflicts-hb",
+        "https://anthempress.com/books/complexity-of-transboundary-water-conflicts-pb",
+        "https://anthempress.com/books/complexity-of-transboundary-water-conflicts-pdf",
+        "https://anthempress.com/books/complexity-of-transboundary-water-conflicts-epub",
+        "https://doi.org/10.2307/j.ctv8xngkk"
+      ],
+      "blurb": "‘Complexity of Transboundary Water Conflicts’ seeks to understand transboundary water governance as complex systems with contingent conditions and possibilities. To address those conditions and leverage the possibilities it introduces the concept of enabling conditions as a pragmatic way to identify and act on the emergent possibilities to resolve transboundary water issues. Based on this theoretical frame, the book applies ideas and tools from complexity science, contingency and enabling conditions to account for events in the formulation of treaties/agreements between disputing riparian states in river basins across the world (Indus, Jordan, Nile, Ganges, Brahmaputra, Colorado, Danube, Senegal and Zayandehrud). It also includes a section on scholars’ reflections on the relevance and weakness of the theoretical framework. The book goes beyond the conventional use of the terms ‘complexity’, ‘contingency’ and ‘enabling conditions’ and anchors them in their theoretical foundations. The argument distinguishes itself from the conventional meaning and usage of the terms of necessary and sufficient conditions in causal explanations. The book’s focus is to identify conditions that set the stage to move from the world of seemingly infinite possibilities to actionable reality. Three enabling conditions – active recognition of interdependence, mutual value creation through negotiation and adaptive governance through learning – are identified and explored for their meaning and function in specific transboundary water disputes.",
+      "cover": "/assets/images/covers/2018-complexity-transboundary-water-conflicts.jpg"
+    },
+    {
+      "id": "2018-hydro-diplomacy-mahmood",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Hydro-Diplomacy",
+      "subtitle": "Preventing Water War Between Nuclear-Armed Pakistan and India",
+      "contributors": [
+        {
+          "name": "Ashfaq Mahmood",
+          "role": "author"
+        }
+      ],
+      "year": 2018,
+      "publisher": "IPS Press",
+      "imprint": "Institute of Policy Studies, Islamabad",
+      "work_type": "authored",
+      "open_access": false,
+      "isbn_hbk": "9789694481708",
+      "publisher_urls": [
+        "https://www.ips.org.pk/product/hydro-diplomacy-preventing-water-war-between-nuclear-armed-pakistan-and-india-hb/"
+      ],
+      "blurb": "This book traces the fluctuations and challenges in transboundary water management between Pakistan and India since their independence in 1947. It was first published in 2018 as a clarion call for the use of hydro-diplomacy to address water disputes between Pakistan and India before they could escalate into a major conflict. The book warned that unresolved water issues could become a dangerous flashpoint between the two nuclear-armed neighbors, with catastrophic consequences not only for the region but for humanity at large. Just seven years later, that warning became a grim reality. In May 2025, war broke out between Pakistan and India, with water disputes emerging as one of the principal causes. On April 24, 2025, India unilaterally announced it was suspending the Indus Waters Treaty of 1960 – an action that served as a prelude to the full-fledged conflict. The war quickly escalated toward the brink of nuclear exchange before it was “paused” following US intervention. Yet the threat of renewed hostilities remains ever-present. In hindsight, few could have imagined that the book’s predictions would come true so swiftly. The case for hydro-diplomacy has never been more urgent. The book identifies and explains the core water-related disputes and presents practical, actionable proposals for resolving them through diplomatic means. It is designed to give readers – from policymakers to scholars and concerned citizens – a concise understanding of the issues and a strategic framework for achieving peaceful outcomes. The value of this book lies in its potential to guide governments, international organizations, UN bodies, financial institutions, think tanks, academics, and peace advocates toward meaningful, peaceful engagement on transboundary water challenges. By offering innovative and non-traditional ideas –moving beyond entrenched national positions – it aims to stimulate further thinking and dialogue. This book is not just a warning; it is a roadmap for peace.",
+      "cover": "/assets/images/covers/2018-hydro-diplomacy-mahmood.jpg"
+    },
+    {
+      "id": "2018-su-diplomasisi",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Su Diplomasisi",
+      "subtitle": "Bir Başlangıç",
+      "contributors": [
+        {
+          "name": "Özgür Mengiler",
+          "role": "author"
+        }
+      ],
+      "year": 2018,
+      "publisher": "İmaj Yayıncılık",
+      "imprint": "İmaj Yayınevi",
+      "work_type": "authored",
+      "open_access": false,
+      "isbn_pbk": "9786055339999",
+      "publisher_urls": [
+        "https://www.kitapsec.com/Products/Su-Diplomasisi-Bir-Baslangic-Ozgur-Mengiler-Imaj-Yayincilik-339621.html"
+      ],
+      "blurb": "Suyun yaşamın kaynağı ve temel ihtiyaç maddesi olarak önemi tartışılmaz. Dünya üzerindeki sınıraşan sulardan içme suyu ve sulamadan sanayide kullanma, tarımsal üretim ve gıda güvenliğinden güç santralleri ve enerji güvenliğine, sürdürülebilir kalkınmaya kadar çok geniş bir bağlamda yer alan amaçlar doğrultusunda yararlanılmaktadır. Suyun vazgeçilmezliği aynı zamanda paylaşımı da beraberinde getirmektedir. Bu çalışmada da su diplomasisi uluslararası ilişkiler boyutuyla incelenecektir. Bu çerçevede, devletler arasında işbirliği ve çatışmanın önlenmesi bağlamında yürütülen diplomasi ve bu diplomasiye uygulanacak uluslararası normların araştırılması amaçlanmaktadır. Bu noktadaki öncelik uluslararası alanda önemi son yıllarda giderek artan, görece yeni bir kavram olan su diplomasisinin anlamlandırılması ve anlaşılması doğrultusunda bir başlangıç yapılabilmesini olanaklı kılmaktır.",
+      "cover": "/assets/images/covers/2018-su-diplomasisi.jpg",
+      "title_en": "Water Diplomacy",
+      "subtitle_en": "A Beginning"
+    },
+    {
+      "id": "2020-river-basin-organizations",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "River Basin Organizations in Water Diplomacy",
+      "contributors": [
+        {
+          "name": "Anoulak Kittikhoun",
+          "role": "editor"
+        },
+        {
+          "name": "Susanne Schmeier",
+          "role": "editor"
+        }
+      ],
+      "year": 2020,
+      "publisher": "Routledge",
+      "imprint": "Routledge",
+      "work_type": "edited",
+      "open_access": false,
+      "doi": "10.4324/9780429266270",
+      "doi_url": "https://doi.org/10.4324/9780429266270",
+      "isbn_hbk": "9780367218133",
+      "isbn_pbk": "9780367627317",
+      "isbn_ebk": "9780429266270",
+      "tf_url": "https://www.taylorfrancis.com/books/edit/10.4324/9780429266270/river-basin-organizations-water-diplomacy-anoulak-kittikhoun-susanne-schmeier",
+      "publisher_urls": [
+        "https://www.routledge.com/River-Basin-Organizations-in-Water-Diplomacy/Kittikhoun-Schmeier/p/book/9780367627317"
+      ],
+      "blurb": "Will tensions and disputes among states sharing international water courses and lakes turn into active conflicts? Addressing this question, the book shows that these concerns are more prominent due to the locations and underlying political dynamics of some of these large rivers and the strategic interests of major powers. Written by a combination of leading practitioners and academics, this book shows that states are more prone to cooperate and manage their transboundary issues over the use of their common water resources through peaceful means, and the key institutions they employ are international river basin organizations (RBOs). Far from being mere technical institutions, RBOs are key mechanisms of water diplomacy with capacity and effectiveness varying on four key interrelated factors: their legal and institutional development, and the influence of their technical and strategic resources. The basins analyzed span all continents, from both developed and developing basins, including the Columbia, Great Lakes, Colorado, Senegal, Niger, Nile, Congo, Jordan, Helmand, Aral Sea, Mekong, Danube and Rhine. Contributing to the academic discourse on transboundary water management and water conflict and cooperation, the book provides insights to policy-makers on which water diplomacy engagements can be successful, the strengths to build on and the pitfalls to avoid so that shared water resources are managed in a cooperative, sustainable and stable way.",
+      "chapters_count": 16,
+      "cover": "/assets/images/covers/2020-river-basin-organizations.jpg"
+    },
+    {
+      "id": "2020-shui-waijiao-kuangjia",
+      "band": "other_titles",
+      "inclusion": "edition",
+      "title": "水外交框架",
+      "subtitle": "A Negotiated Approach to Managing Complex Water Networks",
+      "title_pinyin": "Shuǐ wàijiāo kuàngjià",
+      "original_title": "Water Diplomacy: A Negotiated Approach to Managing Complex Water Networks",
+      "original_id": "2012-water-diplomacy",
+      "contributors": [
+        {
+          "name": "Shafiqul Islam",
+          "name_zh": "沙菲克·伊斯兰姆",
+          "role": "author"
+        },
+        {
+          "name": "Lawrence E. Susskind",
+          "name_zh": "劳伦斯·E.萨斯坎德",
+          "role": "author"
+        },
+        {
+          "name": "International Economic and Technical Cooperation and Exchange Center, Ministry of Water Resources of China",
+          "name_zh": "水利部国际经济技术合作交流中心",
+          "role": "translator"
+        },
+        {
+          "name": "Chinese Research Academy of Environmental Sciences",
+          "name_zh": "中国环境科学研究院",
+          "role": "translator"
+        }
+      ],
+      "year": 2020,
+      "publisher": "科学出版社",
+      "publisher_en": "Science Press",
+      "imprint": "Science Press",
+      "work_type": "translation",
+      "language": "zh-Hans",
+      "open_access": false,
+      "isbn_hbk": "9787030661838",
+      "publisher_urls": [
+        "https://www.ecsponline.com/goods.php?id=207822",
+        "https://view.inews.qq.com/k/20250510A01DQJ00?web_channel=wap&no-redirect=1"
+      ],
+      "blurb": "本书从挑战水管理的传统思维入手，阐述了复杂水管理问题的特性，以及解决复杂水管理问题的一种新方法——基于复杂性理论与才碍和协商理论的水外交框架。书中介绍了利益相关者代表的参与、联合实情调查和情景规划、价值创造、非正式的问题调解并寻求共识、适应性学习及协同适应性管理等方法，以及相关实践案例。最后书中还提供了运用水外交框架进行模拟谈判角色扮演的练习教案。",
+      "chapters_count": 7,
+      "cover": "/assets/images/covers/2020-shui-waijiao-kuangjia.jpg",
+      "title_en": "Water Diplomacy Framework"
+    },
+    {
+      "id": "2021-turkeys-water-diplomacy",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Turkey's Water Diplomacy",
+      "subtitle": "Analysis of its Foundations, Challenges and Prospects",
+      "contributors": [
+        {
+          "name": "Aysegul Kibaroglu",
+          "role": "author"
+        }
+      ],
+      "year": 2021,
+      "publisher": "Anthem Press",
+      "imprint": "Anthem Press",
+      "work_type": "authored",
+      "open_access": false,
+      "doi": "10.2307/j.ctvwh8bgf",
+      "doi_url": "https://doi.org/10.2307/j.ctvwh8bgf",
+      "isbn_hbk": "9781783088119",
+      "isbn_pbk": "9781839994753",
+      "isbn_ebk": "9781783088133",
+      "publisher_urls": [
+        "https://anthempress.com/books/turkeys-water-diplomacy-hb",
+        "https://anthempress.com/turkey-s-water-diplomacy-pb"
+      ],
+      "blurb": "‘Turkey’s Water Diplomacy’ first delineates the institutional and legal foundations of transboundary water policy-making in Turkey. In doing so, major actors of water diplomacy at national, regional and international levels are identified and scrutinized. Specific attention is paid to the evolution of transboundary water politics in the Euphrates–Tigris river basin since Turkish water diplomacy and its basic principles have been largely shaped through practices in this strategically important river basin. Situated at the crossroads of the Middle East, the Caucasus and Europe as the country is, Turkey’s transboundary water policy has also been shaped by geographical determinants. Interestingly, Turkey has reflected her experience in one region (i.e., Europe) on practices in other regions. ‘Turkey’s Water Diplomacy’ analyses how Turkey’s harmonization with the European Union has impacted the transboundary water policy discourses and practices, and how these changes have been reflected in its relations with its Middle Eastern neighbours. A historical account of transboundary water relations in the ET basin is enriched with the analysis of the current state of affairs in the region, such as the Syrian civil war and its repercussions on water issues.",
+      "cover": "/assets/images/covers/2021-turkeys-water-diplomacy.jpg"
+    },
+    {
+      "id": "2024-emomali-rahmons-water-diplomacy",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Emomali Rahmon’s Water Diplomacy",
+      "subtitle": "From the first step to global partnership. Documents, speeches and materials. 1999–2024",
+      "contributors": [
+        {
+          "name": "Sirojiddin Muhriddin",
+          "role": "compiler"
+        }
+      ],
+      "year": 2024,
+      "publisher": "Ves' Mir",
+      "imprint": "Издательство «Весь Мир»",
+      "work_type": "edited",
+      "open_access": false,
+      "isbn_hbk": "9785777709516",
+      "publisher_urls": [
+        "https://www.vesmirbooks.ru/book/9785777709516/"
+      ],
+      "blurb": "For the first time all the main documents of the UN General Assembly and speeches by the President of the Republic of Tajikistan Emomali Rahmon devoted to water resources issues and the problem of glacier conservation are published in one volume. Documents and speeches are vivid historical materials that reveal the history of the emergence and development of water diplomacy of Emomali Rahmon, which has become a new phenomenon in international relations. The publication opens with a Preface by Sirojiddin Muhriddin, Minister of Foreign Affairs of the Republic of Tajikistan, which provides a deep and reasoned analysis of the origin and expansion of international support from the community of nations for the President of the Republic of Tajikistan Emomali Rahmon’s water and climate initiatives. The book includes speeches by the President of the Republic of Tajikistan Emomali Rahmon, resolutions of the UN General Assembly, major declarations and reports of the UN Secretary-General on water initiatives of the Republic of Tajikistan. This publication is addressed to a wide range of readers interested in contemporary international relations.",
+      "cover": "/assets/images/covers/2024-emomali-rahmons-water-diplomacy.jpg"
+    },
+    {
+      "id": "2025-game-theory-and-water-diplomacy",
+      "band": "other_titles",
+      "inclusion": "include",
+      "title": "Game Theory and Water Diplomacy",
+      "subtitle": "Transboundary Water Conflicts and Cooperation",
+      "contributors": [
+        {
+          "name": "Anamika Barua",
+          "role": "author"
+        },
+        {
+          "name": "Tanushree Baruah",
+          "role": "author"
+        }
+      ],
+      "year": 2025,
+      "publisher": "Routledge",
+      "imprint": "Routledge",
+      "work_type": "authored",
+      "open_access": false,
+      "doi": "10.4324/9781003386773",
+      "doi_url": "https://doi.org/10.4324/9781003386773",
+      "isbn_hbk": "9781032479699",
+      "isbn_ebk": "9781003386773",
+      "tf_url": "https://www.taylorfrancis.com/books/mono/10.4324/9781003386773/game-theory-water-diplomacy-anamika-barua-tanushree-baruah",
+      "publisher_urls": [
+        "https://www.routledge.com/Game-Theory-and-Water-Diplomacy-Transboundary-Water-Conflicts-and-Cooperation/Barua-Baruah/p/book/9781032479699"
+      ],
+      "blurb": "Transboundary water negotiations are complex as they are driven by diverse national interests, multiple legal and policy frameworks, historical, and asymmetric power relations. To induce the states to move from a national unilateral agenda to a shared cooperative agenda requires several rounds of dialogues and negotiations. This book shows that the strategic interaction between the parties in these negotiations can be fruitfully analysed using the tools and techniques of game theory. After an introduction to game theory and the relevant models, the book explores three key cases from South Asian river basins – Indus, Brahmaputra, and Ganges. Every river basin is unique; options and choices available for negotiations are context specific. Therefore, there is no single path or ‘one size fits all’ transboundary interaction. The choice and the strategies a nation state adopts to gain the most preferred outcome depend on the choices and the strategies the other state is making. Thus, the book examines the specifics of each case – including the role of geographical position, power relation, policies (internal and external), access to information, rationality, as well as third-party intervention in a negotiating state’s position during transboundary interaction – and explores what the application of game theory can reveal about each of the parties, their positions, and the strategies for achieving their goals. This book is essential reading for researchers in water economics, water diplomacy and conflict, water security, and South Asian studies.",
+      "chapters_count": 8,
+      "cover": "/assets/images/covers/2025-game-theory-and-water-diplomacy.jpg"
+    }
+  ]
+}

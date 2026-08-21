@@ -266,7 +266,9 @@ p { margin: 0 0 var(--s-4); max-width: var(--measure); }
 .book-card-cover img {
 	width: 100%;
 	height: 100%;
-	object-fit: cover;
+	/* contain, not cover: squarer jackets (2012 original is 3:4) mat against
+	   the card background instead of losing their edges */
+	object-fit: contain;
 }
 
 .book-badge {
@@ -784,7 +786,7 @@ p { margin: 0 0 var(--s-4); max-width: var(--measure); }
 .timeline-cover img {
 	width: 100%;
 	height: 100%;
-	object-fit: cover;
+	object-fit: contain;
 }
 .timeline-year-label {
 	font-family: var(--mono);

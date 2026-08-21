@@ -29,4 +29,28 @@
 			{ passive: false }
 		);
 	}
+
+	// Timeline layout toggle (desktop only — the button is hidden under
+	// 641px, where the stacked layout applies via media query regardless).
+	var tlToggle = document.querySelector(".tl-toggle");
+	if (tlToggle) {
+		var KEY = "timeline-layout";
+		var saved = null;
+		try { saved = window.localStorage.getItem(KEY); } catch (err) {}
+		var setStacked = function (stacked) {
+			if (stacked) {
+				document.documentElement.setAttribute("data-timeline", "stacked");
+			} else {
+				document.documentElement.removeAttribute("data-timeline");
+			}
+			tlToggle.setAttribute("aria-pressed", String(stacked));
+			tlToggle.textContent = stacked ? "Show as row" : "Stack by year";
+		};
+		setStacked(saved === "stacked");
+		tlToggle.addEventListener("click", function () {
+			var stacked = document.documentElement.getAttribute("data-timeline") !== "stacked";
+			setStacked(stacked);
+			try { window.localStorage.setItem(KEY, stacked ? "stacked" : "row"); } catch (err) {}
+		});
+	}
 })();

@@ -693,7 +693,17 @@ p { margin: 0 0 var(--s-4); max-width: var(--measure); }
 	overflow-y: hidden;
 	padding: 0 0 var(--s-5);
 	-webkit-overflow-scrolling: touch;
+	/* keep the scrollbar visible so the row reads as scrollable */
+	scrollbar-width: thin;
+	scrollbar-color: var(--muted) transparent;
 }
+.timeline-bleed::-webkit-scrollbar { height: 8px; }
+.timeline-bleed::-webkit-scrollbar-track { background: transparent; }
+.timeline-bleed::-webkit-scrollbar-thumb {
+	background: var(--muted);
+	border-radius: 4px;
+}
+.timeline-bleed::-webkit-scrollbar-thumb:hover { background: var(--ink-soft); }
 .timeline {
 	--axis: 285px;
 	list-style: none;

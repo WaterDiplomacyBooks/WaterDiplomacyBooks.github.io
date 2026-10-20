@@ -1063,6 +1063,14 @@ html[data-timeline="stacked"] {
 .site-footer a { color: var(--on-ink); }
 .site-footer p + p { margin-top: var(--s-3); }
 
+/* Leave the footer links clear of touch-browser controls after a fast scroll.
+   Keep ordinary document scrolling; safe-area insets alone can be zero in Safari. */
+@media (hover: none) and (pointer: coarse) {
+	.site-footer {
+		padding-bottom: calc(var(--s-7) + 64px + env(safe-area-inset-bottom, 0px));
+	}
+}
+
 /* --- Mobile nav ------------------------------------------- */
 @media (max-width: 640px) {
 	html { font-size: 16px; }
